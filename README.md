@@ -13,3 +13,6 @@ Edit Tasks: Edit task names and save.
 React.js: The core library for building the user interface.
 CSS/Reacticons: Used for styling the app.
 Local Storage: Used to persist tasks data.
+
+#Demo link
+https://reacttodolistkone.netlify.app/
